@@ -10,9 +10,10 @@
   </a> 
 <br>
 <br>
-<div align="center">
-<a href="https://discord.gg/altyapilar" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/942155951396503572/?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px"></a>
-</div>
+<a href="https://discord.com/users/942155951396503572">
+        <img src="https://lanyard-profile-readme.vercel.app/api/942155951396503572?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
+    </a>
+</p>
 </p>
 &nbsp;
 <p align="center">
