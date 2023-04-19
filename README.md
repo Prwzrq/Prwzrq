@@ -25,19 +25,4 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 #### Top Repositories
 
 
-<a href="https://github.com/Prwzrq/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prwzrq&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/Prwzrq/Prwzrq.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Prwzrq&repo=Prwzrq.github.io&theme=buefy" />
-</a>
 
-<br />
-<br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/Prwzrq/Prwzrq/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/Prwzrq">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/Prwzrq/Prwzrq/master/assets/codesandbox.svg" />
-</a>
