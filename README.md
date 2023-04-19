@@ -1,5 +1,5 @@
 <h2 align="center">
-    Hello there! I am <strong>Zero</strong> 👋🏻
+    Hello there! I am <strong>Lyrox</strong> 👋🏻
 </h2>
 <p align="center">
     I am a CS Student & Youtuber who aspires to be a software developer in the near future, I mainly work as a developer on a VoIP platform called <strong> <a href="https://discord.com">Discord</a></strong>
@@ -10,17 +10,17 @@
   </a> 
 <br>
 <br>
-<a href="https://discord.com/users/603948445362946084">
+<a href="https://discord.com/users/749185995123064914">
         <img src="https://lanyard-profile-readme.vercel.app/api/603948445362946084?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
     </a>
 </p>
 &nbsp;
 <p align="center">
-    <a href="https://github.com/ZeroDiscord/">
+    <a href="https://github.com/Prwzrq/">
         <img src="./assets/icons/other/github-solid.svg/" width="25px" />
     </a>
     &nbsp;
-    <a href="https://discord.com/users/603948445362946084">
+    <a href="https://discord.com/users/749185995123064914">
         <img src="./assets/icons/other/discord-solid.svg/" width="25px" />
     </a>
     &nbsp;
