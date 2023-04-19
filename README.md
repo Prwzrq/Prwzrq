@@ -5,13 +5,13 @@
     I am a CS Student & Youtuber who aspires to be a software developer in the near future, I mainly work as a developer on a VoIP platform called <strong> <a href="https://discord.com">Discord</a></strong>
 <br>
 <br>
-<a href="https://github.com/ZeroDiscord/">
-        <img src="https://komarev.com/ghpvc/?username=ZeroDiscord&color=red" />
+<a href="https://github.com/Prwzrq/">
+        <img src="https://komarev.com/ghpvc/?username=Prwzrq&color=red" />
   </a> 
 <br>
 <br>
-<a href="https://discord.com/users/749185995123064914">
-        <img src="https://lanyard-profile-readme.vercel.app/api/603948445362946084?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
+<a href="https://discord.com/users/942155951396503572">
+        <img src="https://lanyard-profile-readme.vercel.app/api/942155951396503572?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
     </a>
 </p>
 &nbsp;
@@ -20,7 +20,7 @@
         <img src="./assets/icons/other/github-solid.svg/" width="25px" />
     </a>
     &nbsp;
-    <a href="https://discord.com/users/749185995123064914">
+    <a href="https://discord.com/users/942155951396503572">
         <img src="./assets/icons/other/discord-solid.svg/" width="25px" />
     </a>
     &nbsp;
