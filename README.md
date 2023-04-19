@@ -16,37 +16,20 @@
 </p>
 </p>
 &nbsp;
-<p align="center">
-    <a href="https://github.com/Prwzrq/">
-        <img src="./assets/icons/other/github-solid.svg/" width="25px" />
-    </a>
-    &nbsp;
-    <a href="https://discord.com/users/942155951396503572">
-        <img src="./assets/icons/other/discord-solid.svg/" width="25px" />
-    </a>
-    &nbsp;
-    <a href="https://twitter.com/RestInPeaceZero/">
-        <img src="./assets/icons/other/twitter-solid.svg/" width="25px" />
-    </a>
-    &nbsp;
-    <a href="https://www.youtube.com/c/ZeroSync">
-        <img src="./assets/icons/other/youtube-solid.svg/" width="25px" />
-    </a>
-    
-</p>
+
 <hr/>
 <p align="center">
-    <a href="https://github.com/ZeroDiscord/">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=ZeroDiscord&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+    <a href="https://github.com/Prwzrq/">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Prwzrq&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
   </a> 
 <br>
-  <a href="https://github.com/ZeroDiscord/">
-       <img src="https://github-readme-stats.vercel.app/api?username=ZeroDiscord&show_icons=true&theme=gruvbox" />
+  <a href="https://github.com/Prwzrq/">
+       <img src="https://github-readme-stats.vercel.app/api?username=Prwzrq&show_icons=true&theme=gruvbox" />
   </a> 
 <br>
 <br>
-<a href="https://github.com/ZeroDiscord/">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroDiscord&theme=gruvbox&langs_count=8&layout=compact" />
+<a href="https://github.com/Prwzrq/">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prwzrq&theme=gruvbox&langs_count=8&layout=compact" />
   </a> 
 </p>
 
